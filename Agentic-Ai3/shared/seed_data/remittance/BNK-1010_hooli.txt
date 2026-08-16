@@ -1,0 +1,9 @@
+REMITTANCE ADVICE
+From: payables@hooli.example
+Date: 06 March 2026
+Reference: INV-1201
+Amount remitted: USD 12,000.00
+
+Comment: Payment released against INV-1201. Our system shows an additional
+1,000.00 applied in error from a duplicate approval run. Please advise on
+disposition of the excess.

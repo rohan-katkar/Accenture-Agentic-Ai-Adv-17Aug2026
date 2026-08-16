@@ -1,0 +1,9 @@
+{"ts": "2026-08-02T15:06:34.759+00:00", "level": "INFO", "logger": "shared.foundry_client", "message": "credential_issued", "adapter": "StaticTokenCredential", "scopes": ["https://cognitiveservices.azure.com/.default"], "ttl_seconds": 1800}
+{"ts": "2026-08-02T15:06:34.766+00:00", "level": "INFO", "logger": "shared.foundry_client", "message": "no_credentials_using_offline_stub"}
+{"ts": "2026-08-02T15:06:34.767+00:00", "level": "INFO", "logger": "shared.foundry_client", "message": "chat_client_ready", "backend": "offline-stub"}
+{"ts": "2026-08-02T15:06:34.779+00:00", "level": "INFO", "logger": "shared.foundry_client", "message": "offline_completion", "chars_in": 218}
+{"ts": "2026-08-02T15:06:34.795+00:00", "level": "INFO", "logger": "shared.foundry_client", "message": "offline_completion", "chars_in": 218}
+{"ts": "2026-08-02T15:06:34.796+00:00", "level": "INFO", "logger": "day1.lab2", "message": "classification_complete", "backend": "offline-stub", "reason_code": "D03", "confidence": 0.85}
+{"ts": "2026-08-02T15:06:34.806+00:00", "level": "INFO", "logger": "shared.foundry_client", "message": "offline_completion", "chars_in": 4}
+{"ts": "2026-08-02T15:06:34.807+00:00", "level": "INFO", "logger": "shared.foundry_client", "message": "offline_completion", "chars_in": 4}
+{"ts": "2026-08-02T15:06:34.808+00:00", "level": "INFO", "logger": "shared.foundry_client", "message": "offline_completion", "chars_in": 4}

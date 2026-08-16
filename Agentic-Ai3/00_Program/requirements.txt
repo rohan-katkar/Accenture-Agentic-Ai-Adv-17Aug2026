@@ -1,0 +1,45 @@
+# =====================================================================
+# Accenture Batch 1 - Agentic AI Foundation
+# Pinned lab environment. Python 3.11 or 3.12 (3.12 verified in build).
+#
+# VERSION-SENSITIVITY WARNING (read before delivery):
+#   The Azure AI Foundry project SDK (azure-ai-projects) has changed
+#   shape across its preview line. The pins below are the versions this
+#   courseware was authored against. Re-verify against Microsoft Learn
+#   before each delivery and re-run 00_Program/verify_environment.py.
+#   See 00_Program/VERSION_RISK_REGISTER.md.
+# =====================================================================
+
+# --- Orchestration (Days 1-3, Capstone) ---
+langgraph>=0.2.60,<0.4
+langgraph-checkpoint-sqlite>=2.0.0,<3.0
+
+# --- Model access: PRIMARY, stable path (used by every lab) ---
+openai>=1.55.0,<2.0
+
+# --- Model access: Azure AI Foundry project SDK (OPTIONAL enterprise path) ---
+# Optional on purpose: shared/foundry_client.py degrades gracefully if this
+# import fails, so a Foundry SDK change cannot take the classroom down.
+azure-ai-projects>=1.0.0b5
+azure-identity>=1.19.0
+azure-core>=1.32.0
+
+# --- Vector store (Day 2, Capstone) ---
+chromadb>=0.5.20,<2.0
+
+# --- Data contracts / validation (Day 2, Day 3, Capstone) ---
+pydantic>=2.9.0,<3.0
+
+# --- Unstructured remittance parsing (Day 2, Capstone) ---
+pypdf>=5.1.0
+
+# --- Web applications (all days) ---
+streamlit>=1.40.0
+pandas>=2.2.0
+
+# --- Notebooks ---
+jupyterlab>=4.3.0
+ipykernel>=6.29.0
+
+# --- Config ---
+python-dotenv>=1.0.1

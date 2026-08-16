@@ -1,0 +1,7 @@
+REMITTANCE ADVICE
+From: finance@wayne-enterprises.example
+Date: 03 March 2026
+Amount remitted: USD 5,000.00
+
+Comment: Payment on account. Invoice allocation to follow from our shared
+services centre.

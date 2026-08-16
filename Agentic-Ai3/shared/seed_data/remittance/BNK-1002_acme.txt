@@ -1,0 +1,15 @@
+REMITTANCE ADVICE
+From: accounts.payable@acmecorp.example
+Date: 02 March 2026
+Payment reference: PO-5541
+Total remitted: USD 9,500.00
+
+Detail
+------
+Invoice INV-810 .................. 10,000.00
+Less: short shipment adjustment ..... (500.00)
+Net remitted ...................... 9,500.00
+
+Note from AP: Five units arrived crushed and unusable at our Newark dock on
+27 February. Photographs were sent to your quality team. We have withheld
+USD 500.00 pending credit note. Please do not treat this as a pricing dispute.

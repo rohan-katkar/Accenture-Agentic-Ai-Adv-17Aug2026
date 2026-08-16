@@ -1,0 +1,8 @@
+REMITTANCE ADVICE
+From: ap-shared-services@starkindustries.example
+Date: 06 March 2026
+Reference: INV-1180
+Amount remitted: USD 8,700.00
+
+Comment: Amount adjusted per internal review. Balance under evaluation by our
+procurement group. Further detail to follow separately.

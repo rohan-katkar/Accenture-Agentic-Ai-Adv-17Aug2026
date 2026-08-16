@@ -1,0 +1,17 @@
+# Conda environment for Azure ML compute instances and conda-based setups.
+#   conda env create -f environment.yml
+#   conda activate agentic-batch1
+#   python -m ipykernel install --user --name agentic-batch1 \
+#       --display-name "Python (Agentic Batch 1)"
+#
+# pip is used for the lab packages themselves so that the pins stay in ONE place:
+# 00_Program/requirements.txt. Duplicating them here would be a drift source.
+name: agentic-batch1
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pip
+  - ipykernel
+  - pip:
+      - -r 00_Program/requirements.txt

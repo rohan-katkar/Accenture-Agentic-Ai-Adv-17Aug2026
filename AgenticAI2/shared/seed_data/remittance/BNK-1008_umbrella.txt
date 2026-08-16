@@ -1,0 +1,13 @@
+REMITTANCE ADVICE
+From: treasury@umbrellahealth.example
+Date: 05 March 2026
+Purchase Order: PO-6301
+Total remitted: USD 15,000.00
+
+Invoice        Invoice Date    Amount
+INV-1102       2026-02-20      9,000.00
+INV-1103       2026-02-21      6,000.00
+                               ---------
+                               15,000.00
+
+Payment covers both invoices in full against PO-6301. No deductions taken.

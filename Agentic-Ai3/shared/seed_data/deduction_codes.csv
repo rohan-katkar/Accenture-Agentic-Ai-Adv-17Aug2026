@@ -1,0 +1,6 @@
+reason_code,category,description,owning_team,sla_days
+D01,Pricing Issue,Discrepancy between contracted unit price and billed invoice price,Pricing Desk,5
+D02,Freight Claim,Unauthorised shipping or handling charges billed to customer,Logistics,7
+D03,Damage Claim,Goods received broken corrupted or unusable,Quality,10
+D04,Tax Difference,Exempt tax status claimed or state sales tax variance,Tax,7
+D05,Discount Taken,Early payment discount taken outside allowed payment terms,Collections,3

@@ -1,0 +1,48 @@
+Linkedin : https://www.linkedin.com/in/jayaprakashbalakrishnan/ pls feel free to connect :-)
+
+azure agent service with langchain
+
+https://learn.microsoft.com/en-us/azure/foundry/how-to/develop/langchain-agents
+
+langchain, langgraph and langflow
+https://www.datacamp.com/tutorial/langchain-vs-langgraph-vs-langsmith-vs-langflow
+
+AI agent frameworks
+
+https://www.microsoft.com/en-us/microsoft-365-copilot/microsoft-copilot-studio/ai-agent-frameworks
+
+Certification posters - Microsoft cloud/data/ai certifications
+
+https://arch-center.azureedge.net/Credentials/Certification-Poster_en-us.pdf
+
+
+
+#####
+Achievement Code Redeem
+
+Please find the courseware & achievement code link. Kindly share it with participants & ask them to redeem it without fail.
+
+Class ID	Course	Courseware Link	Achievement link	No. of pax
+27SON0248	AI-103	https://learn.microsoft.com/training/courses/ai-103t00?WT.mc_id=ilt_partner_webpage_wwl&ocid=3575870#study-guide
+https://learn.microsoft.com/en-gb/users/me/achievements?WT.mc_id=ilt_partner_webpage_wwl&ocid=3575870&redeem=VZ6JXN
+82
+				
+
+                                                          
+Instructions:
+
+Courseware URL
+
+1. You can access the Microsoft Official Courseware using above mentioned URL. 
+2. You must be logged in to Microsoft Learn Account while accessing the courseware URL. It helps you to track the progress of your training and certification activities.
+3. If you do not already have a Microsoft Learn account. You can create a new account on https://learn.microsoft.com/en-us/training/
+
+Achievement URL
+
+1. You must log into your Microsoft Learn account to redeem the Achievement URL. (If not signed in, you will be prompted to sign-in to your Microsoft Learn account.)
+2. Next screen will show you a code and prompt you to click on Redeem. “Please click on Redeem”
+3. After a few seconds you will see a confirmation message "We've added your achievement to your profile"
+Completing the above process is mandatory to obtain Course Completion Badge
+Thank you!
+
+########
