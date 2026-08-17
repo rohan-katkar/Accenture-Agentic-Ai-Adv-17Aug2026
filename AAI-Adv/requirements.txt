@@ -1,0 +1,17 @@
+# Northwind reconciliation labs — verified versions (re-verified 2026-08-17)
+# Core stack: pinned exact (API surface probed live; see common/model.py docstring)
+agent-framework-core==1.14.0
+agent-framework-foundry==1.11.0
+mcp==2.0.0
+# Supporting: minimum-version pins, latest verified in clean-room install
+azure-identity>=1.25.3
+opentelemetry-sdk>=1.25
+opentelemetry-api>=1.25
+pyyaml>=6.0
+nbformat>=5.10
+pytest>=8.0
+python-dotenv>=1.0
+# Azure-mode optional extras (uncomment when running live):
+# azure-cognitiveservices-speech   # Lab 2.2 voice summary
+# azure-monitor-opentelemetry      # Lab 2.4 traces -> Application Insights
+# azure-storage-queue              # Lab 1.4 real review queue
