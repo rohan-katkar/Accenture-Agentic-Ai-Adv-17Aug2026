@@ -4,6 +4,10 @@ azure agent service with langchain
 
 https://learn.microsoft.com/en-us/azure/foundry/how-to/develop/langchain-agents
 
+Azure - Hybrid approach - Copilot studio and azure foundry
+
+https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-copilot-studio-vs-microsoft-foundry-building-ai-agents-and-apps/4483160
+
 langchain, langgraph and langflow
 https://www.datacamp.com/tutorial/langchain-vs-langgraph-vs-langsmith-vs-langflow
 
