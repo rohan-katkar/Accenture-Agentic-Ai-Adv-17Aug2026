@@ -1,5 +1,11 @@
 Linkedin : https://www.linkedin.com/in/jayaprakashbalakrishnan/ pls feel free to connect :-)
 
+Capstone Project upload link
+
+Please find the below drive link to upload the participants capstone project and share it to participants. Ask them to create folder with the format of First Name_Last name_Batch Number_Agentic AI Advanced and inform them to upload their completed project by tomorrow before12:30 PM.
+
+Batch 4- https://vectorsenseus.sharepoint.com/:f:/s/VectorSenseMicrosoftAlliance/IgBLftDLOx__Spnj3vHsBMZrAeZ3qtQoBhxhG3q_z0ypV6Y?e=Nhi99Z
+
 MCP/A2A Protocol - comparison https://www.truefoundry.com/blog/mcp-vs-a2a
 
 azure agent service with langchain
